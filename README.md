@@ -5,3 +5,4 @@ Kriterien/ Einschränkungen:
 - PEP-8-Styleguides
 - in der Regel: _Happy Path_ (ohne Exception-Handling)
 - lediglich Realisierung der Muss-Kriterien
+- Nutzung der Konzepte nach Unterrichtsstand (Funktionen erst dann, wenn sie im Unterricht thematisiert wurden)
