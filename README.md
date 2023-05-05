@@ -1,5 +1,5 @@
 ## uebungen-lf5
-# Musterlösungen zum Unterricht im LF5.
+# Materialien (z.B. Musterlösungen) zum Unterricht im LF5.
 *Übungsaufgaben in Unterordnern ue_kontrollstrukturen, ue_funktionen*
 
 Kriterien/ Einschränkungen: 
