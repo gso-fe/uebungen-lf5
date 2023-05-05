@@ -37,7 +37,7 @@ while (is_room_remaining == True):
 
         #calculation (sum up the room area)
         rectangle_area = (rectangle_length / 100) * (rectangle_width / 100)
-        room_area = room_area+rectangle_area
+        room_area = room_area + rectangle_area
 
         #control the flow for the current room (boolean is_rectangle_remaining)
         input_value = input(f" Is there another rectangle to capture for this room [Y/N]?")
